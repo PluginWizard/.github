@@ -1,1 +1,21 @@
-# .github
+<h1 align="center">
+    <img src="wizard.png" />
+</h1>
+
+<p align='center'>
+Please, consider <a href="">sponsor this project</a> ❤️
+</p>
+
+<h1 align="center">PluginWizard</h1>
+
+
+<p align="center">Build Minecraft plugins using visual blocks.</p>
+
+<p align="center">
+    <a href="https://discord.gg/SPC9Tf3YTm">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+      <a href="">
+        <img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+    </a>
+</p>
